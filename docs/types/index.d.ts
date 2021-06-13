@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import BigInt = require( '@stdlib/bigint/ctor' );
+import BigInt = require( './../../ctor' );
 
 /**
 * Interface describing the `bigint` namespace.
