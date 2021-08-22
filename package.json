@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/bigint",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "BigInt.",
   "license": "Apache-2.0",
   "author": {
@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils": "github:stdlib-js/utils"
+    "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/assert": "github:stdlib-js/assert",
