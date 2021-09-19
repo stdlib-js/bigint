@@ -57,7 +57,7 @@ The namespace contains the following:
 
 <div class="namespace-toc">
 
--   <span class="signature">[`BigInt( value )`][@stdlib/bigint/ctor]</span><span class="delimiter">: </span><span class="description">bigInt factory.</span>
+-   <span class="signature">[`BigInt( value )`][@stdlib/bigint/ctor]</span><span class="delimiter">: </span><span class="description">BigInt factory.</span>
 
 </div>
 
@@ -85,6 +85,16 @@ console.log( objectKeys( ns ) );
 </section>
 
 <!-- /.examples -->
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
 <section class="main-repo" >
