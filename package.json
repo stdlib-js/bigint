@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/bigint",
-  "version": "0.0.11",
+  "version": "0.0.0",
   "description": "BigInt.",
   "license": "Apache-2.0",
   "author": {
