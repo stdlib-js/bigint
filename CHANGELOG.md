@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="packages">
 
@@ -14,25 +14,11 @@
 
 <!-- /.packages -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
-
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -72,15 +58,56 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="bigint-v0.2.0">
+
+#### [@stdlib/bigint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bigint)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="bigint-ctor-v0.2.0">
+
+#### [@stdlib/bigint/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bigint/ctor)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`c42d41d`](https://github.com/stdlib-js/stdlib/commit/c42d41d6761fad1f4548ce1d91f10b202cdb86a0) - **build:** remove stray lint directive part _(by Philipp Burckhardt)_
+-   [`23114c6`](https://github.com/stdlib-js/stdlib/commit/23114c65f67ea8c17fc835e280408c39544dfa76) - **build:** remove tslint directives _(by Philipp Burckhardt)_
+-   [`8fbd70f`](https://github.com/stdlib-js/stdlib/commit/8fbd70f16653c25dfd2094511555c77d523c1126) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
+-   [`9502ed2`](https://github.com/stdlib-js/stdlib/commit/9502ed27e2853e312c556a48bdd7775095e66709) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
 
 </details>
 
@@ -116,15 +143,115 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="bigint-v0.1.0">
+
+#### [@stdlib/bigint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bigint)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="bigint-ctor-v0.1.0">
+
+#### [@stdlib/bigint/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bigint/ctor)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`d73bbf4`](https://github.com/stdlib-js/stdlib/commit/d73bbf43d222f935085f8ecf7526e5f57835f74e) - **build:** replace lint directives _(by Philipp Burckhardt)_
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+-   [`df8768d`](https://github.com/stdlib-js/stdlib/commit/df8768dd7907a20a8be12f5149dc91a945bec65f) - **chore:** disable lint rule _(by Philipp Burckhardt)_
+-   [`2e197bc`](https://github.com/stdlib-js/stdlib/commit/2e197bc4bab1c252c283ff512d82610648368598) - **test:** use strictEqual checks _(by Philipp Burckhardt)_
 
 </details>
 
